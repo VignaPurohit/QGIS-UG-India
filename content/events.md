@@ -42,7 +42,7 @@ Join us in celebrating International Women’s Day with a special Indian Women i
 When: 27 February, 2026 
 Where: Online
 
-The QGIS India User Group will be presented at the global QGIS Open Day (QOD) monthly meeting to talk about our journey and share interesting case studies from the community.
+The QGIS India User Group presented at the global QGIS Open Day (QOD) monthly meeting to talk about our journey and shared interesting case studies from the community.
 
 {{< button class = "is-primary1" link = "https://www.youtube.com/watch?v=-A-omz7EYwE" text = "Watch Recording" >}} 
 
