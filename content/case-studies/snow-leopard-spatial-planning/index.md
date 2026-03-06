@@ -111,6 +111,6 @@ By guiding sampling design, effort allocation, field sequencing, data curation, 
 
 ## Author
 
-**Rajat Rao** is an independent researcher working at the intersection of ecology and geospatial science. His interests lie in using GIS, remote sensing, and spatial modelling to address conservation questions, particularly in complex mountain landscapes. He has a background in electronics engineering, a Master's degree in Wildlife Sciences, and is fascinated by GIS.
+[Rajat Rao](https://www.linkedin.com/in/cosmicfudge/) is an independent researcher working at the intersection of ecology and geospatial science. His interests lie in using GIS, remote sensing, and spatial modelling to address conservation questions, particularly in complex mountain landscapes. He has a background in electronics engineering, a Master's degree in Wildlife Sciences, and is fascinated by GIS.
 
 {{< content-end >}}

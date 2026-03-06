@@ -118,7 +118,7 @@ The approach can be replicated in other villages facing similar challenges with 
 
 ## Author
 
-Malcolm Afonso is the Founder of SpatialCraft, a Goa-based geospatial technology company. He actively works with QGIS and open-source geospatial tools, focusing on GIS consulting, drone mapping, precision surveying, WebGIS, and community-led spatial planning for governance and sustainability. His company, SpatialCraft, extensively uses open-source geospatial technologies, particularly QGIS and QField, to deliver accurate, field-validated spatial intelligence for decision-making.
+[Malcolm Afonso](https://www.linkedin.com/in/malcolm-afonso-70024bb7/) is the Founder of [SpatialCraft](https://spatialcraft.in/), a Goa-based geospatial technology company. He actively works with QGIS and open-source geospatial tools, focusing on GIS consulting, drone mapping, precision surveying, WebGIS, and community-led spatial planning for governance and sustainability. His company, SpatialCraft, extensively uses open-source geospatial technologies, particularly QGIS and QField, to deliver accurate, field-validated spatial intelligence for decision-making.
 
 
 ---
