@@ -199,6 +199,6 @@ While this guide focused on soil sampling and ground truth points, the core logi
 
 ## Author
 
-**Sudarshan Bhoyar** is the Founder of Deccan Spatial and author of "Soil Spectral Analysis in R".
+[Sudarshan Bhoyar](https://www.linkedin.com/in/sudarshan-bhoyar) is the Founder of [Deccan Spatial](https://deccanspatial.com/) and author of "Soil Spectral Analysis in R".
 
 {{< content-end >}}
