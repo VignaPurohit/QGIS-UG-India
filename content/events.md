@@ -20,6 +20,7 @@ Stay updated with our upcoming meetups, workshops, and conferences. Join us to l
 ### Indian Women in GIS – Women’s Day Event
 
 When: 8 March, 2026, 6-7 pm IST 
+
 Where: Online  
 
 Join us in celebrating International Women’s Day with a special Indian Women in GIS event. This event highlights the contributions of women in geospatial technologies and provides a platform for knowledge sharing and collaboration.
@@ -52,6 +53,7 @@ Everyone is welcome to attend and join the session. The session will be hosted o
 ### QGIS Open Day
 
 When: 27 February, 2026 
+
 Where: Online
 
 The QGIS India User Group presented at the global QGIS Open Day (QOD) monthly meeting to talk about our journey and shared interesting case studies from the community.
