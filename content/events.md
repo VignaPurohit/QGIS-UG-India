@@ -37,7 +37,7 @@ Where: Online
 
 We celebrated International Women’s Day with a special Indian Women in GIS event. Speakers presented on topics including QGIS documentation with Git, GIS for archaeology and urban planning, storytelling with QGIS, and a fun word-search game!
 
-{{< button class = "is-primary1" link = "https://vimeo.com/1171506628/e1fd6b194f" text = "Watch Recording" >}}
+{{< button class = "is-primary1" link = "https://www.youtube.com/watch?v=F0V_7bLzTo8" text = "Watch Recording" >}}
 
 {{< rich-content-end >}}
 {{< rich-right-start >}}
