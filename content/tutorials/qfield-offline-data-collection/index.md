@@ -3,6 +3,7 @@ type: "page"
 title: "Private & Replicable Field Data Collection with QGIS and QField"
 subtitle: "Step-by-step guides by the community"
 draft: false
+date: "2026-02-20"
 sidebar: true
 thumbnail: "qfield-offline-data-collection/img/plugin-qfieldsync.webp"
 og_image: "tutorials/qfield-offline-data-collection/img/plugin-qfieldsync.webp"

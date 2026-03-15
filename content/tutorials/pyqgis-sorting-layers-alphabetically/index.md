@@ -3,9 +3,10 @@ type: "page"
 title: "Sorting Layers Alphabetically in QGIS Using PyQGIS"
 subtitle: "Step-by-step guides by the community"
 draft: false
+date: "2026-03-10"
 sidebar: true
-thumbnail: "sorting-layers-alphabetically-pyqgis/img/image8.webp"
-og_image: "tutorials/sorting-layers-alphabetically-pyqgis/img/image8.webp"
+thumbnail: "pyqgis-sorting-layers-alphabetically/img/image8.webp"
+og_image: "tutorials/pyqgis-sorting-layers-alphabetically/img/image8.webp"
 ---
 
 {{< content-start >}}
