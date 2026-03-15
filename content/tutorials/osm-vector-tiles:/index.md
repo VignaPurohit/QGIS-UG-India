@@ -4,8 +4,8 @@ title: "Stop Downloading - Design Custom Maps in QGIS with OSM Vector Tiles"
 subtitle: "Step-by-step guides by the community"
 draft: false
 sidebar: true
-thumbnail: "osm-vector-tiles-road-network-map/img/image1.webp"
-og_image: "tutorials/osm-vector-tiles-road-network-map/img/image1.webp"
+thumbnail: "osm-vector-tiles/img/image1.webp"
+og_image: "tutorials/osm-vector-tiles/img/image1.webp"
 ---
 
 {{< content-start >}}
